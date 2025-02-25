@@ -163,3 +163,8 @@ app = App(app_ui, server)
 # **CONCLUSION**
 
 Shiny for Python is a powerful tool for building interactive web applications using a familiar and intuitive Python-based syntax. With its reactive programming model, seamless data visualization integration, and cross-platform deployment capabilities, it empowers developers and data professionals to create dynamic, data-driven applications with minimal effort. Whether you are building real-time dashboards, interactive reports, or sophisticated machine learning interfaces, Shiny simplifies the process and enhances accessibility. As the ecosystem continues to evolve, Shiny remains a valuable asset for bridging the gap between data science and web development.
+
+**REFERENCES**
+* [Shiny for Python]([url](https://shiny.posit.co/py/))
+* [GitHub Repository]([url](https://github.com/posit-dev/py-shiny))
+* [Shiny for R(Comparsion)]([url](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/))
